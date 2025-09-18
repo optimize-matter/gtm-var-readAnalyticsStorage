@@ -1,0 +1,6 @@
+homepage: "https://www.optimize-matter.com/"
+documentation: "https://www.optimize-matter.com/blog/"
+versions:
+  # Latest version
+  - sha: <>
+    changeNotes: Initial commit.
