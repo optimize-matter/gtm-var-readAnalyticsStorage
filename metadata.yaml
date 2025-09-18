@@ -2,5 +2,5 @@ homepage: "https://www.optimize-matter.com/"
 documentation: "https://www.optimize-matter.com/blog/"
 versions:
   # Latest version
-  - sha: <>
+  - sha: 5e26691cc66361e9dc258640b709b972e7551e15
     changeNotes: Initial commit.
